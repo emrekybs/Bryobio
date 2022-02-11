@@ -7,11 +7,11 @@ NETWORK Pcap File Analysis
 It was developed to speed up the processes of SOC Analysts during analysis🕷️
 
 <img src="https://github.com/emrekybs/Bryobio/blob/main/1.gif">
-#### Tested
 
+#Tested
 ```sh
-[+]Debian
-[+]Ubuntu
+OK Debian
+OK Ubuntu
 ```
 
 # Requirements
