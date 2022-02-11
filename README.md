@@ -8,10 +8,11 @@ Pcap File Analysis
  $ pip install pyshark
  $ pip install dpkt
  
-$Wireshark
-$Tshark
-$Mergecap
-$Ngrep
+ # Requirement (Third)
+ $ Wireshark
+ $ Tshark
+ $ Mergecap
+ $ Ngrep
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
