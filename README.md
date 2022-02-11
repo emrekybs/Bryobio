@@ -5,14 +5,14 @@ Pcap File Analysis
 <img src="https://github.com/emrekybs/Bryobio/blob/main/1.gif">
 
 # Requirements
- $ pip install pyshark
- $ pip install dpkt
+    $ pip install pyshark
+    $ pip install dpkt
  
- # Requirement (Third)
- $ Wireshark
- $ Tshark
- $ Mergecap
- $ Ngrep
+    # Requirement (Third)
+    $ Wireshark
+    $ Tshark
+    $ Mergecap
+    $ Ngrep
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
