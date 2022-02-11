@@ -1,6 +1,8 @@
 # Bryobio
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-red)
-Pcap File Analysis
+NETWORK Pcap File Analysis
+
+It was developed to speed up the processes of SOC Analysts during analysis🕷️
 
 <img src="https://github.com/emrekybs/Bryobio/blob/main/1.gif">
 
