@@ -8,7 +8,6 @@ Pcap File Analysis
     $ pip install pyshark
     $ pip install dpkt
  
-    # Requirement (Third)
     $ Wireshark
     $ Tshark
     $ Mergecap
