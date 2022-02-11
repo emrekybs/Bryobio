@@ -29,8 +29,8 @@ OK Ubuntu
     $ pip install pyshark
     $ pip install dpkt
     $ cd Bryobio
-    $ chmod +x bryobio
+    $ chmod +x bryobio.py
      
-    $ python3 bryobio.pu
+    $ python3 bryobio.py
 <img src="https://github.com/emrekybs/Bryobio/blob/main/1.png">
 <img src="https://github.com/emrekybs/Bryobio/blob/main/3.png">
