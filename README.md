@@ -8,7 +8,7 @@ The provided illustration reflects the environment and focus of a cybersecurity 
 Regarding your script, it is a Python-based packet analysis tool named "BRYOBIA," developed to assist SOC (Security Operations Center) analysts in their investigations. 
 The script utilizes various libraries, including dpkt, pyshark, and termcolor, to analyze PCAP (Packet Capture) files, a common format for storing network logs.
 
-<img src="https://github.com/emrekybs/Bryobio/blob/main/1.gif">
+<img src="https://github.com/emrekybs/Bryobio/blob/main/bryobio.png">
 
 Tested
 ```sh
