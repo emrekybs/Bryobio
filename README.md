@@ -1,10 +1,12 @@
-# Bryobio🕷️
+# Bryobio🕷️ NETWORK Pcap File Analysis
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-red)
-
-
-NETWORK Pcap File Analysis
-
 It was developed to speed up the processes of SOC Analysts during analysis🕷️
+
+This tool is valuable for cybersecurity professionals, particularly in analyzing and understanding network traffic and potential security threats. 
+The provided illustration reflects the environment and focus of a cybersecurity analyst using such a tool.
+
+Regarding your script, it is a Python-based packet analysis tool named "BRYOBIA," developed to assist SOC (Security Operations Center) analysts in their investigations. 
+The script utilizes various libraries, including dpkt, pyshark, and termcolor, to analyze PCAP (Packet Capture) files, a common format for storing network logs.
 
 <img src="https://github.com/emrekybs/Bryobio/blob/main/1.gif">
 
