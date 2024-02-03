@@ -1,5 +1,5 @@
 # Bryobio🕷️ NETWORK Pcap File Analysis
-[![EmreKybs](https://img.shields.io/badge/MadeBy-Angelus-red)
+[![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-red)
 It was developed to speed up the processes of SOC Analysts during analysis🕷️
 
 This tool is valuable for cybersecurity professionals, particularly in analyzing and understanding network traffic and potential security threats. 
@@ -27,7 +27,7 @@ OK Ubuntu
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
-    $ https://github.com/angelus1857/Bryobio.git
+    $ git clone https://github.com/emrekybs/Bryobio.git
     $ cd Bryobio
     $ chmod +x bryobio.py
      
