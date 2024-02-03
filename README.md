@@ -1,5 +1,5 @@
 # Bryobio🕷️ NETWORK Pcap File Analysis
-[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-red)
+[![EmreKybs](https://img.shields.io/badge/MadeBy-Angelus-red)
 It was developed to speed up the processes of SOC Analysts during analysis🕷️
 
 This tool is valuable for cybersecurity professionals, particularly in analyzing and understanding network traffic and potential security threats. 
